@@ -2,4 +2,4 @@
 
 nodejs()
 
-env.COMPONENT="user"
+COMPONENT="user"
